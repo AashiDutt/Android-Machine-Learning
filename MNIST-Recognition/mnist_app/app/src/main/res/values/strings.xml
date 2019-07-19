@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mnist_app</string>
+    <string name="image_view_content_description">Image of a digit</string>
+    <string name="predict_button_text">Predict Digit</string>
+    <string name="next_image_button_text">Load Next Image</string>
+    <string name="text_view_text">Display Results Here</string>
+</resources>
